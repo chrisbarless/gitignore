@@ -13,8 +13,6 @@ wp-content/uploads/
 wp-content/wp-cache-config.php
 
 .sass_cache/
+.DS_Store
 node_modules/
 bower_components/
-
-wp-content/themes/HTML5-Reset-WordPress-Theme
-wp-content/themes/bones
